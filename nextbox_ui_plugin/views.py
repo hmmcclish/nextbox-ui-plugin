@@ -34,6 +34,33 @@ SUPPORTED_ICONS = {
     'unlinked',
     'hostgroup',
     'wirelesshost',
+    'Business_Desktop_High_End',
+    'Business_Desktop_Midrange',
+    'Business_Desktop_Budget',
+    'Business_Server_Tower',
+    'Console_Server',
+    'Console_Server_Serial_Port',
+    'Docker_Host',
+    'Fiber_Cable',
+    'Fruit_AllInOne',
+    'Fruit_Laptop',
+    'Fruit_Smartphone',
+    'Game_Console_Generic',
+    'Game_Console_White_Vertical',
+    'Game_Console_Black_Glossy',
+    'Game_Console_Black_Glossy_Newer',
+    'Game_Console_3D_Handheld',
+    'Game_Console_Handheld_Attached_Controllers',
+    'Laptop_Dock',
+    'Load_Balancer',
+    'PDU',
+    'Printer_Large',
+    'Printer_Small',
+    'Robot_Smartphone',
+    'Storage_Device_Cube',
+    'Storage_Device_Rack',
+    'UPS',
+    'Voice_Router',
 }
 
 # Topology layers would be sorted
@@ -106,6 +133,7 @@ DEFAULT_ICON_ROLE_MAP = {
     'spine': 'switch',
     'access': 'switch',
     'access-switch': 'switch',
+    'UPS': 'UPS',
 }
 
 
