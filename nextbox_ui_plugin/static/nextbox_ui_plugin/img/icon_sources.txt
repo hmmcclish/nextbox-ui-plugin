@@ -1,0 +1,29 @@
+all icons included are public domain.
+
+game_console_generic: https://thenounproject.com/icon/6599
+game_console_white_vertical: https://freesvg.org/game-console-vector-illustration
+game_console_black_glossy: https://freesvg.org/panamag-playstation-1
+game_console_black_glossy_newer: https://freesvg.org/ps4-by-scro2003
+game_console_3d_handheld: https://freesvg.org/handheld-3d-game-system
+game_console_handheld_attached_controllers: https://www.maxpixel.net/console-play-nintendo-minecraft-gaming-switch-5172817
+ups:_original
+laptop_dock: https://www.svgrepo.com/svg/25133/laptop
+printer_large: https://publicdomainvectors.org/en/free-clipart/laser-printer-vector-icon/8910.html
+printer_small: https://publicdomainvectors.org/en/free-clipart/laser-printer-vector-image/12673.html
+voice_router: https://www.svgrepo.com/svg/81736/voip-router
+storage_device_rack: https://www.maxpixel.net/vertical-raid-hard-array-rack-disk-mountable-305137
+storage_device_cube: https://www.svgrepo.com/svg/101231/storage-device
+pdu: https://freesvg.org/snakedraw-extension-lead
+load_balancer: https://www.svgrepo.com/svg/331731/load-balancer-generic
+console_server: https://freesvg.org/proxy-server-icon-vector-drawing
+console_server_serial_port: https://freesvg.org/serial-port-icon-vector-image
+docker_host: https://freesvg.org/dockerhost1
+fiber_cable: https://www.maxpixel.net/technology-glass-fiber-data-alive-blue-6335168
+business_desktop_high_end: https://freesvg.org/andy-dell-precision-workstation
+business_desktop_midrange: https://freesvg.org/optiplex-gx300-server-vector-drawing
+business_desktop_budget: https://freesvg.org/computer-system-case-vector-image
+business_server_tower: https://freesvg.org/poweredge-t300-tower-server-vector-illustration
+fruit_laptop: https://freesvg.org/macbook-pro-13-5-retnia-oc-bsw
+fruit_allinone: https://freesvg.org/imec20
+fruit_smartphone: https://publicdomainvectors.org/en/free-clipart/photorealistic-smartphone-vector-clip-art/20527.html
+robot_smartphone: https://publicdomainvectors.org/en/free-clipart/outlined-mobile-telephone/72122.html
