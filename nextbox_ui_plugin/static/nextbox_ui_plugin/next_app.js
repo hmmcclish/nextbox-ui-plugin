@@ -76,34 +76,34 @@
         linkInstanceClass: 'CustomLinkClass'
     });
     
-    topo.registerIcon("dead_node", "/static/nextbox_ui_plugin/img/dead_node.png", 49, 49);
-    topo.registerIcon("Business_Desktop_High_End", "/static/nextbox_ui_plugin/img/Business_Desktop_High_End.svg", 49, 49);
-    topo.registerIcon("Business_Desktop_Midrange", "/static/nextbox_ui_plugin/img/Business_Desktop_Midrange.svg", 49, 49);
-    topo.registerIcon("Business_Desktop_Budget", "/static/nextbox_ui_plugin/img/Business_Desktop_Budget.svg", 49, 49);
-    topo.registerIcon("Business_Server_Tower", "/static/nextbox_ui_plugin/img/Business_Server_Tower.svg", 49, 49);
-    topo.registerIcon("Console_Server", "/static/nextbox_ui_plugin/img/Console_Server.svg", 49, 49);
-    topo.registerIcon("Console_Server_Serial_Port", "/static/nextbox_ui_plugin/img/Console_Server_Serial_Port.svg", 49, 49);
-    topo.registerIcon("Docker_Host", "/static/nextbox_ui_plugin/img/Docker_Host.svg", 49, 49);
-    topo.registerIcon("Fiber_Cable", "/static/nextbox_ui_plugin/img/Fiber_Cable.svg", 49, 49);
-    topo.registerIcon("Fruit_AllInOne", "/static/nextbox_ui_plugin/img/Fruit_AllInOne.svg", 49, 49);
-    topo.registerIcon("Fruit_Laptop", "/static/nextbox_ui_plugin/img/Fruit_Laptop.svg", 49, 49);
-    topo.registerIcon("Fruit_Smartphone", "/static/nextbox_ui_plugin/img/Fruit_Smartphone.svg", 49, 49);
-    topo.registerIcon("Game_Console_Generic", "/static/nextbox_ui_plugin/img/Game_Console_Generic.svg", 49, 49);
-    topo.registerIcon("Game_Console_White_Vertical", "/static/nextbox_ui_plugin/img/Game_Console_White_Vertical.svg", 49, 49);
-    topo.registerIcon("Game_Console_Black_Glossy", "/static/nextbox_ui_plugin/img/Game_Console_Black_Glossy.svg", 49, 49);
-    topo.registerIcon("Game_Console_Black_Glossy_Newer", "/static/nextbox_ui_plugin/img/Game_Console_Black_Glossy_Newer.svg", 49, 49);
-    topo.registerIcon("Game_Console_3D_Handheld", "/static/nextbox_ui_plugin/img/Game_Console_3D_Handheld.svg", 49, 49);
-    topo.registerIcon("Game_Console_Handheld_Attached_Controllers", "/static/nextbox_ui_plugin/img/Game_Console_Handheld_Attached_Controllers.svg", 49, 49);
-    topo.registerIcon("Laptop_Dock", "/static/nextbox_ui_plugin/img/Laptop_Dock.svg", 49, 49);
-    topo.registerIcon("Load_Balancer", "/static/nextbox_ui_plugin/img/Load_Balancer.svg", 49, 49);
-    topo.registerIcon("PDU", "/static/nextbox_ui_plugin/img/PDU.svg", 49, 49);
-    topo.registerIcon("Printer_Large", "/static/nextbox_ui_plugin/img/Printer_Large.svg", 49, 49);
-    topo.registerIcon("Printer_Small", "/static/nextbox_ui_plugin/img/Printer_Small.svg", 49, 49);
-    topo.registerIcon("Robot_Smartphone", "/static/nextbox_ui_plugin/img/Robot_Smartphone.svg", 49, 49);
-    topo.registerIcon("Storage_Device_Cube", "/static/nextbox_ui_plugin/img/Storage_Device_Cube.svg", 49, 49);
-    topo.registerIcon("Storage_Device_Rack", "/static/nextbox_ui_plugin/img/Storage_Device_Rack.svg", 49, 49);
-    topo.registerIcon("UPS", "/static/nextbox_ui_plugin/img/UPS.svg", 49, 49);
-    topo.registerIcon("Voice_Router", "/static/nextbox_ui_plugin/img/Voice_Router.svg", 49, 49);
+    topo.registericon("dead_node", "/static/nextbox_ui_plugin/img/dead_node.png", 49, 49);
+    topo.registericon("business_desktop_high_end", "/static/nextbox_ui_plugin/img/business_desktop_high_end.svg", 49, 49);
+    topo.registericon("business_desktop_midrange", "/static/nextbox_ui_plugin/img/business_desktop_midrange.svg", 49, 49);
+    topo.registericon("business_desktop_budget", "/static/nextbox_ui_plugin/img/business_desktop_budget.svg", 49, 49);
+    topo.registericon("business_server_tower", "/static/nextbox_ui_plugin/img/business_server_tower.svg", 49, 49);
+    topo.registericon("console_server", "/static/nextbox_ui_plugin/img/console_server.svg", 49, 49);
+    topo.registericon("console_server_serial_port", "/static/nextbox_ui_plugin/img/console_server_serial_port.svg", 49, 49);
+    topo.registericon("docker_host", "/static/nextbox_ui_plugin/img/docker_host.svg", 49, 49);
+    topo.registericon("fiber_cable", "/static/nextbox_ui_plugin/img/fiber_cable.svg", 49, 49);
+    topo.registericon("fruit_allinone", "/static/nextbox_ui_plugin/img/fruit_allinone.svg", 49, 49);
+    topo.registericon("fruit_laptop", "/static/nextbox_ui_plugin/img/fruit_laptop.svg", 49, 49);
+    topo.registericon("fruit_smartphone", "/static/nextbox_ui_plugin/img/fruit_smartphone.svg", 49, 49);
+    topo.registericon("game_console_generic", "/static/nextbox_ui_plugin/img/game_console_generic.svg", 49, 49);
+    topo.registericon("game_console_white_vertical", "/static/nextbox_ui_plugin/img/game_console_white_vertical.svg", 49, 49);
+    topo.registericon("game_console_black_glossy", "/static/nextbox_ui_plugin/img/game_console_black_glossy.svg", 49, 49);
+    topo.registericon("game_console_black_glossy_newer", "/static/nextbox_ui_plugin/img/game_console_black_glossy_newer.svg", 49, 49);
+    topo.registericon("game_console_3d_handheld", "/static/nextbox_ui_plugin/img/game_console_3d_handheld.svg", 49, 49);
+    topo.registericon("game_console_handheld_attached_controllers", "/static/nextbox_ui_plugin/img/game_console_handheld_attached_controllers.svg", 49, 49);
+    topo.registericon("laptop_dock", "/static/nextbox_ui_plugin/img/laptop_dock.svg", 49, 49);
+    topo.registericon("load_balancer", "/static/nextbox_ui_plugin/img/load_balancer.svg", 49, 49);
+    topo.registericon("pdu", "/static/nextbox_ui_plugin/img/pdu.svg", 49, 49);
+    topo.registericon("printer_large", "/static/nextbox_ui_plugin/img/printer_large.svg", 49, 49);
+    topo.registericon("printer_small", "/static/nextbox_ui_plugin/img/printer_small.svg", 49, 49);
+    topo.registericon("robot_smartphone", "/static/nextbox_ui_plugin/img/robot_smartphone.svg", 49, 49);
+    topo.registericon("storage_device_cube", "/static/nextbox_ui_plugin/img/storage_device_cube.svg", 49, 49);
+    topo.registericon("storage_device_rack", "/static/nextbox_ui_plugin/img/storage_device_rack.svg", 49, 49);
+    topo.registericon("ups", "/static/nextbox_ui_plugin/img/ups.svg", 49, 49);
+    topo.registericon("voice_router", "/static/nextbox_ui_plugin/img/voice_router.svg", 49, 49);
     
     var Shell = nx.define(nx.ui.Application, {
         methods: {
